@@ -1,0 +1,2 @@
+Expansão da serie de taylor utilizando função externa de fatorial
+e calculando o erro utilizando a função da biblioteca math
